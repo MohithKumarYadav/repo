@@ -3,4 +3,8 @@ rmdir
 echo
 ls
 
+cd
+cat
+nano
+
 
