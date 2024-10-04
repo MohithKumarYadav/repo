@@ -1,0 +1,6 @@
+mkdir
+rmdir
+echo
+ls
+
+
